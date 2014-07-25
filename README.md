@@ -18,7 +18,7 @@
 
 ## 技术
 
-* 主要技能：Java 及 Web 开发，常用的设计模式，主流 SSH 框架，Tomcat 服务器，MySql,Oracle 数据库，Linux 基本操作，JS+HTML+CSS
+* 主要技能：Java及Web开发(JVM内存，反射,IO，JUC，线程，网络等)，熟悉SSH框架，设计模式，MySql,Oracle数据库(PL/SQL,触发器，事务，乐观锁，悲观锁等)，Linux (基本操作)，JS+HTML+CSS，ajax,JQuery框架（读的懂）
 
 ## 实习经历
 
