@@ -15,9 +15,14 @@
 * 学历：本科
 * 英语水平：CET-4通过
 
-## 技术
+## 主要技能
 
-* 主要技能：Java及Web开发(JVM内存，反射,IO，JUC，线程，网络等)，熟悉SSH框架，设计模式，MySql,Oracle数据库(PL/SQL,触发器，事务，乐观锁，悲观锁等)，Linux (基本操作)，JS+HTML+CSS，ajax,JQuery框架（读的懂）
+* 熟练的掌握Java及Web开发，掌握Java的IO，JUC，多线程，网络等编程模式，清楚的了解JVM内存，反射等机制
+* 熟悉SSH框架，有相关项目经验
+* 熟悉常用的设计模式
+* 熟悉MySql,Oracle数据库，了解乐观锁，悲观锁，事务等概念，可以完成PL/SQL,触发器等
+* 掌握Linux的基本操作
+* 对JS+HTML+CSS，ajax,JQuery等前端技术能读的懂，也能写出简单的东西
 
 ## 实习经历
 
